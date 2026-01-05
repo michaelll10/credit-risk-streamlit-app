@@ -29,4 +29,4 @@ The goal of this project is to assist financial institutions in assessing the ri
 ## ⚙️ How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/credit-risk-app.git](https://github.com/YOUR_USERNAME/credit-risk-app.git)
+   git clone [https://github.com/michaelll10/credit-risk-app.git](https://github.com/michaelll10/credit-risk-app.git)
