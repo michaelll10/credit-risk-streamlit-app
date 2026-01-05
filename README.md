@@ -3,8 +3,8 @@
 This is a machine learning web application that predicts the likelihood of a loan applicant defaulting. The model is built using **XGBoost** and is optimized for **High Recall** to ensure that potential high-risk borrowers are identified effectively.
 
 ## 🚀 Live Demo
-[Insert your Streamlit Cloud Link Here]
 
+(https://credit-risk-app-app-jmuhewecffz6swelkzwxuv.streamlit.app/)
 ## 📊 Project Overview
 The goal of this project is to assist financial institutions in assessing the risk of lending to individuals. By analyzing historical data, the model provides a probability of default and a binary "Approved" or "Rejected" decision based on an optimized threshold.
 
