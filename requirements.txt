@@ -44,7 +44,7 @@ google-pasta==0.2.0
 grpcio==1.68.1
 h11==0.14.0
 h5py==3.12.1
-htmlmin==0.1.12
+htmlmin2==0.1.13
 huggingface-hub==0.32.4
 idna==3.10
 ImageHash==4.3.1
@@ -202,3 +202,4 @@ wordcloud==1.9.4
 wrapt==1.17.0
 wsproto==1.2.0
 ydata-profiling==4.16.1
+
